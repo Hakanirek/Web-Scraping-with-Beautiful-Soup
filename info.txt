@@ -1,0 +1,28 @@
+
+
+/* Write your CSS below, don't change the rules above. */
+/* TODO 1 elemnent selector*/
+p{
+  color: red;
+}
+
+/* TODO 2  class selector*/
+.note{
+  font-size: 20px;
+}
+
+/* TODO 3 id selector*/
+#id-selector-demo{
+  color:green;
+}
+
+/* TODO 4 value selector */
+li[value]{
+  color: blue;
+}
+/* TODO 5 all element selector*/
+*{
+  text-align: center
+}
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
